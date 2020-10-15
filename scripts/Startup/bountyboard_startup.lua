@@ -1,0 +1,1 @@
+Script.ReloadScript("Scripts/bountyboard.lua")
